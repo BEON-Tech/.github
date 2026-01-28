@@ -1,5 +1,3 @@
-<img src="https://github.com/BEON-Tech.png" alt="beon.tech" width="100"/>
-
 # beon.tech
 
 **Elite LATAM Tech Talent for US Companies**
