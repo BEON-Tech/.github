@@ -1,4 +1,4 @@
-# beon.tech
+# BEON.tech
 
 **Elite LATAM Tech Talent for US Companies**
 
