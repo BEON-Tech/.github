@@ -1,4 +1,4 @@
-<img src="https://beon.tech/hubfs/beon_logo.svg" alt="beon.tech" width="200"/>
+<img src="https://github.com/BEON-Tech.png" alt="beon.tech" width="200"/>
 
 # beon.tech
 
